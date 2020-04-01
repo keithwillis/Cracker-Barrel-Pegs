@@ -1,0 +1,6 @@
+/Users/keithwillis/Projects/Cracker-Barrel-Pegs/Cracker-Barrel-Pegs/bin/Debug/Cracker-Barrel-Pegs.exe
+/Users/keithwillis/Projects/Cracker-Barrel-Pegs/Cracker-Barrel-Pegs/bin/Debug/Cracker-Barrel-Pegs.pdb
+/Users/keithwillis/Projects/Cracker-Barrel-Pegs/Cracker-Barrel-Pegs/obj/Debug/Cracker-Barrel-Pegs.csprojAssemblyReference.cache
+/Users/keithwillis/Projects/Cracker-Barrel-Pegs/Cracker-Barrel-Pegs/obj/Debug/Cracker-Barrel-Pegs.csproj.CoreCompileInputs.cache
+/Users/keithwillis/Projects/Cracker-Barrel-Pegs/Cracker-Barrel-Pegs/obj/Debug/Cracker-Barrel-Pegs.exe
+/Users/keithwillis/Projects/Cracker-Barrel-Pegs/Cracker-Barrel-Pegs/obj/Debug/Cracker-Barrel-Pegs.pdb
